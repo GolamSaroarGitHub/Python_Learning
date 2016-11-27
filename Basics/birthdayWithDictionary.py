@@ -1,3 +1,4 @@
+
 birthday={'ferdous':'Dec 1','sohel':'July 18'}
 for i in birthday.items():
     print(i)

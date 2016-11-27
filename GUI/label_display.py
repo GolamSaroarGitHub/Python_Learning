@@ -8,6 +8,6 @@ three=Label(text="Three",bg="blue",fg="white")
 
 one.pack()
 two.pack(fill=X)
-three.pack(side=RIGHT,fill=X,Y)
+three.pack(side=RIGHT,fill=Y)
 
 root.mainloop()
