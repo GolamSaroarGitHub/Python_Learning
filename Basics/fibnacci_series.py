@@ -9,5 +9,5 @@ class Fib:
             a,b=b,a+b
             print(str(b), end=' ')
 
-fib_num=Fib
+fib_num=Fib()
 fib_num.Main()

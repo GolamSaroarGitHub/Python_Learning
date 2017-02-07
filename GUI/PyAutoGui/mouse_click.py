@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-time.sleep(5)
+time.sleep(2)
 
 pyautogui.click(59, 240, button='left')
 # time.sleep(0.5)
