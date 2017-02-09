@@ -2,33 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9a6d29-5f5c-4515-b8e4-e46985f88cb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/json_read.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/running_another_script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/sample.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/test_ds.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/django_tutorial/mysite/webapp/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/if_else.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hackerrank/leap_year.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Networking/basic_socket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Networking/chat_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Networking/chat_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Networking/tcp_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Networking/tcp_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/file_append.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/file_read.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/file_writing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/global_variable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TIme/current_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TIme/stop_watch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TIme/time_calculation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TextBloob/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web_Crawling/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/built_in_function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/example.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/os_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/parse_with_regex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/read_csv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/regex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/sys_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/urllib_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web_Crawling/general.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basics/fibnacci_series.py" afterPath="$PROJECT_DIR$/Basics/fibnacci_series.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase_Connection.py" afterPath="$PROJECT_DIR$/DataBase_Connection.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/PyAutoGui/mouse_click.py" afterPath="$PROJECT_DIR$/GUI/PyAutoGui/mouse_click.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentDex/list.py" afterPath="$PROJECT_DIR$/SentDex/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web_Crawling/basic.py" afterPath="$PROJECT_DIR$/Web_Crawling/basic.py" />
     </list>
     <ignored path="Python_Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,18 +34,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tcp_server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Networking/tcp_server.py">
+      <file leaf-file-name="parse_with_regex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentDex/parse_with_regex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="187">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="button_simple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI/button_simple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tcp_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Networking/tcp_client.py">
+      <file leaf-file-name="basic_winow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentDex/tkinter/basic_winow.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -68,35 +66,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chat_server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Networking/chat_server.py">
+      <file leaf-file-name="weather_Calculator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI/weather_Calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chat_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Networking/chat_client.py">
+      <file leaf-file-name="basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_Crawling/basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
-              <folding>
-                <element signature="e#1005#1018#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SentDex/list.py">
+      <file leaf-file-name="general.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web_Crawling/general.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="663">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawled.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/crawled.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queue.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/queue.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,17 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic_Structure/PDF_Handling/intro.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/update_testcase.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/get_a_test_case.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/get_all_test_case.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/create_testStep.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/get_a_test_run_byid.py" />
-        <option value="$PROJECT_DIR$/Testreach/qtest/create_a_test_run.py" />
-        <option value="$PROJECT_DIR$/Basics/lamda_use_basic.py" />
-        <option value="$PROJECT_DIR$/Basic_Structure/Template/item_price.py" />
-        <option value="$PROJECT_DIR$/Basic_Structure/Networking/intrto.py" />
-        <option value="$PROJECT_DIR$/Basic_Structure/Image/intro.py" />
         <option value="$PROJECT_DIR$/Basic_Structure/Unittesting/python_search.py" />
         <option value="$PROJECT_DIR$/Django/website/music/views.py" />
         <option value="$PROJECT_DIR$/Django/website/music/urls.py" />
@@ -155,7 +160,6 @@
         <option value="$PROJECT_DIR$/Basics/test_ds.py" />
         <option value="$PROJECT_DIR$/Basics/fibnacci_series.py" />
         <option value="$PROJECT_DIR$/GUI/PyAutoGui/mouse_click.py" />
-        <option value="$PROJECT_DIR$/Web_Crawling/basic.py" />
         <option value="$PROJECT_DIR$/TextBloob/test.py" />
         <option value="$PROJECT_DIR$/SentDex.py" />
         <option value="$PROJECT_DIR$/SentDex/global_variable.py" />
@@ -168,14 +172,26 @@
         <option value="$PROJECT_DIR$/Networking/chat_client.py" />
         <option value="$PROJECT_DIR$/Networking/chat_server.py" />
         <option value="$PROJECT_DIR$/SentDex/list.py" />
+        <option value="$PROJECT_DIR$/SentDex/example.csv" />
+        <option value="$PROJECT_DIR$/SentDex/read_csv.py" />
+        <option value="$PROJECT_DIR$/SentDex/built_in_function.py" />
+        <option value="$PROJECT_DIR$/SentDex/os_module.py" />
+        <option value="$PROJECT_DIR$/SentDex/sys_module.py" />
+        <option value="$PROJECT_DIR$/SentDex/urllib_module.py" />
+        <option value="$PROJECT_DIR$/SentDex/regex.py" />
+        <option value="$PROJECT_DIR$/SentDex/parse_with_regex.py" />
+        <option value="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
+        <option value="$PROJECT_DIR$/Web_Crawling/basic.py" />
+        <option value="$PROJECT_DIR$/Web_Crawling/create_project_directory.py" />
+        <option value="$PROJECT_DIR$/Web_Crawling/general.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="74" />
-    <option name="width" value="1370" />
-    <option name="height" value="712" />
+    <option name="x" value="185" />
+    <option name="y" value="114" />
+    <option name="width" value="760" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -202,8 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,16 +246,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SentDex" />
+              <option name="myItemId" value="Web_Crawling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web_Crawling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thenewboston" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/BitBucket/testreach_ui_test/Candidate/Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -256,88 +290,88 @@
       <recent name="F:\Git\Python_Learning\GUI\PyAutoGui" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.list">
-    <configuration default="false" name="tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.general">
+    <configuration default="false" name="current_mouse_position" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Networking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/PyAutoGui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Networking/tcp_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/PyAutoGui/current_mouse_position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="tcp_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="basic_winow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Networking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SentDex/tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Networking/tcp_client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="chat_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="weather_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Networking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Networking/chat_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/weather_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="chat_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="create_project_directory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Networking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Crawling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Networking/chat_client.py" />
+      <option name="SCRIPT_NAME" value="F:\Git\Python_Learning\Web_Crawling\general.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="general" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SentDex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Crawling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentDex/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_Crawling/general.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -477,19 +511,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tcp_server" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tcp_client" />
-      <item index="2" class="java.lang.String" itemvalue="Python.chat_server" />
-      <item index="3" class="java.lang.String" itemvalue="Python.chat_client" />
-      <item index="4" class="java.lang.String" itemvalue="Python.list" />
+      <item index="0" class="java.lang.String" itemvalue="Python.current_mouse_position" />
+      <item index="1" class="java.lang.String" itemvalue="Python.basic_winow" />
+      <item index="2" class="java.lang.String" itemvalue="Python.weather_Calculator" />
+      <item index="3" class="java.lang.String" itemvalue="Python.create_project_directory" />
+      <item index="4" class="java.lang.String" itemvalue="Python.general" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.chat_client" />
-        <item index="2" class="java.lang.String" itemvalue="Python.chat_server" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tcp_client" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tcp_server" />
+        <item index="0" class="java.lang.String" itemvalue="Python.general" />
+        <item index="1" class="java.lang.String" itemvalue="Python.create_project_directory" />
+        <item index="2" class="java.lang.String" itemvalue="Python.weather_Calculator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.basic_winow" />
+        <item index="4" class="java.lang.String" itemvalue="Python.current_mouse_position" />
       </list>
     </recent_temporary>
   </component>
@@ -518,26 +552,26 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="74" width="1370" height="712" extended-state="0" />
+    <frame x="185" y="114" width="760" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1584084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10941828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5682211" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2648305" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2642487" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22750424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -558,118 +592,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebScraping/facebookBrowse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/Networking/intrto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/Image/intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/website/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/Unittesting/python_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/website/music/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/website/music/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/website/website/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database_Connection/SqLite/example.db">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database_Connection/SqLite/just_connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database_Connection/SqLite/read_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database_Connection/PyMongo/conncection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/String/formating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/PDF_Handling/intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Browser_Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic_Structure/PDF_Handling/combine_two_pdf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -817,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Crawling/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TextBloob/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -884,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,26 +813,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Networking/chat_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="1496">
           <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
-          <folding>
-            <element signature="e#1005#1018#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SentDex/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/example.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/built_in_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/os_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/sys_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/urllib_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/withHeaders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/PyAutoGui/current_mouse_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/parse_with_regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/button_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentDex/tkinter/basic_winow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/weather_Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_Crawling/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/crawled.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/queue.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_Crawling/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
           <folding />
         </state>
       </provider>
