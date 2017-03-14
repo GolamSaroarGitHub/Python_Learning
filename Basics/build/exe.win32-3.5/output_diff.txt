@@ -1,0 +1,17 @@
+-----------------------------------
+Comparing files 
+ > comp1.py
+ < comp2.py
+-----------------------------------
+> Line-3  f sad
+< Line-3  f sad dfg df g
+
+> Line-5  f asd
+< Line-5  f asd dsf gsdf
+
+> Line-7  dfas
+< Line-7  sdf gsfd gs
+
+>+ Line-8  dfa
+>+ Line-9  sdfasd
+>+ Line-10  f

@@ -1,0 +1,33 @@
+{% load staticfiles %}
+<html>
+
+   <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" >
+   <link rel="stylesheet" href="{% static 'style.css' %}">
+   <script src="{% static 'js/bootstrap.min.js' %}"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table class="table  table-striped">
+<thead>
+<tr>
+    <th>Purpose</th>
+    <th>Amount</th>
+    <th>Date</th>
+</tr>
+</thead>
+<tbody>
+{% for expense in expenses %}
+<tr>
+    <td>{{ expense.purpose }}</td>
+    <td>{{ expense.amount }}</td>
+    <td>{{ expense.date }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+<a class="btn btn-primary" href=" {% url 'add-expense' %}">Add New Expense</a>
+</body>
+</html>

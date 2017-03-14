@@ -26,5 +26,7 @@ pswd = getpass.getpass('Password:')
 server.login("golamsaroar89@gmail.com",pswd)
 
 msg = "YOUR MESSAGE!"
-server.sendmail("golamsaroar89@gmail.com","syedaabida89@gmail.com", msg)
+server.sendmail("golamsaroar89@gmail.com","ferdous.djp@gmail.com", msg)
+print('you message has been sent')
 server.quit()
+

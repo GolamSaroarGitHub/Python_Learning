@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+{% load staticfiles %}
+<html lang="en">
+
+
+   <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" >
+   <link rel="stylesheet" href="{% static 'style.css' %}">
+   <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>
+
+<h3  id="single_post_body">{{ post.title }} : {{ post.description }}</h3>
+<a href="{% url 'show_all_posts' %}">All Posts</a>
+
+</div>
+
+
+</body>
+</html>

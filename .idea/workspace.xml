@@ -2,19 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9a6d29-5f5c-4515-b8e4-e46985f88cb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/built_in_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/example.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/os_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/parse_with_regex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/read_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/regex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/sys_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/urllib_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web_Crawling/general.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/file_comparision.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/key_logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics/unique_file_contents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beautiful_Soup/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/Boston_Test_Project/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/Boston_Test_Project/website/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/add_expense.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/expense.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/post_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/single_post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/introducing_settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/Intermediate/enumerate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/Intermediate/generator_expression_with_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/Intermediate/string_operation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/Intermediate/yield.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/Intermediate/zip_functionality.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/reandurllib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SentDex/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web_Crawling/link_finder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/banglaidj/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/banglaidj/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0002_auto_20170215_1330.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0003_auto_20170307_1139.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0004_auto_20170307_1146.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0005_student.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/0006_auto_20170308_0018.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/templates/cost/expense.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/templates/post_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/templates/single_post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/templates/test.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/base_library.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/oddEven.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-Analysis.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-EXE.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-PKG.pkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-PKG.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-PYZ.pyz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/out00-PYZ.toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Basics/build/oddEven/warnoddEven.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Django/website/music/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Django/website/music/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Django/website/music/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Django/website/music/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Django/website/website/urls.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python_Learning.iml" afterPath="$PROJECT_DIR$/.idea/Python_Learning.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentDex/list.py" afterPath="$PROJECT_DIR$/SentDex/list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web_Crawling/basic.py" afterPath="$PROJECT_DIR$/Web_Crawling/basic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic_Structure/Email/simple_sending.py" afterPath="$PROJECT_DIR$/Basic_Structure/Email/simple_sending.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentDex/withHeaders.txt" afterPath="$PROJECT_DIR$/SentDex/withHeaders.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testreach/login.py" afterPath="$PROJECT_DIR$/Testreach/login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web_Crawling/general.py" afterPath="$PROJECT_DIR$/Web_Crawling/general.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/db.sqlite3" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/db.sqlite3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/manage.py" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/manage.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/music/__init__.py" afterPath="$PROJECT_DIR$/B_DJ_Pro/bdjproject/testapp/forms.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/music/admin.py" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/admin.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/music/migrations/__init__.py" afterPath="$PROJECT_DIR$/Basics/comp1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/music/tests.py" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/blog_post/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/website/__init__.py" afterPath="$PROJECT_DIR$/Basics/comp2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/website/settings.py" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/banglaidj/settings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Django/website/website/wsgi.py" afterPath="$PROJECT_DIR$/banglai_django/banglaidj/banglaidj/wsgi.py" />
     </list>
     <ignored path="Python_Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,91 +123,52 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Python_Learning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parse_with_regex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SentDex/parse_with_regex.py">
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="527">
+              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="46" column="26" lean-forward="false" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="button_simple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GUI/button_simple.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic_winow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SentDex/tkinter/basic_winow.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather_Calculator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GUI/weather_Calculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Crawling/basic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="general.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web_Crawling/general.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawled.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/crawled.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/queue.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,6 +180,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -133,75 +190,90 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic_Structure/Unittesting/python_search.py" />
+        <option value="$PROJECT_DIR$/Django/website/music/templates/music/index.html" />
+        <option value="$PROJECT_DIR$/Django/website/music/templates/music/detail.html" />
         <option value="$PROJECT_DIR$/Django/website/music/views.py" />
-        <option value="$PROJECT_DIR$/Django/website/music/urls.py" />
-        <option value="$PROJECT_DIR$/Django/website/website/urls.py" />
-        <option value="$PROJECT_DIR$/SqLite/just_connection.py" />
-        <option value="$PROJECT_DIR$/SqLite/read_data.py" />
-        <option value="$PROJECT_DIR$/PyMongo/conncection.py" />
-        <option value="$PROJECT_DIR$/Database_Connection/MySQL/connections.py" />
-        <option value="$PROJECT_DIR$/Basic_Structure/String/formating.py" />
-        <option value="$PROJECT_DIR$/Browser_Stack.py" />
-        <option value="$PROJECT_DIR$/Basic_Structure/PDF_Handling/combine_two_pdf.py" />
-        <option value="$PROJECT_DIR$/TIme/current_time.py" />
-        <option value="$PROJECT_DIR$/TIme/time_calculation.py" />
-        <option value="$PROJECT_DIR$/TIme/stop_watch.py" />
-        <option value="$PROJECT_DIR$/Basics/running_another_script.py" />
-        <option value="$PROJECT_DIR$/Django/django_tutorial/mysite/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/Django/django_tutorial/mysite/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/Django/django_tutorial/mysite/webapp/views.py" />
-        <option value="$PROJECT_DIR$/Django/django_tutorial/mysite/webapp/urls.py" />
-        <option value="$PROJECT_DIR$/DataBase_Connection.py" />
-        <option value="$PROJECT_DIR$/Hackerrank/if_else.py" />
-        <option value="$PROJECT_DIR$/Hackerrank/leap_year.py" />
-        <option value="$PROJECT_DIR$/Basics/sample.json" />
-        <option value="$PROJECT_DIR$/Basics/json_read.py" />
-        <option value="$PROJECT_DIR$/Basics/test_ds.py" />
-        <option value="$PROJECT_DIR$/Basics/fibnacci_series.py" />
-        <option value="$PROJECT_DIR$/GUI/PyAutoGui/mouse_click.py" />
-        <option value="$PROJECT_DIR$/TextBloob/test.py" />
-        <option value="$PROJECT_DIR$/SentDex.py" />
-        <option value="$PROJECT_DIR$/SentDex/global_variable.py" />
-        <option value="$PROJECT_DIR$/SentDex/file_writing.py" />
-        <option value="$PROJECT_DIR$/SentDex/file_append.py" />
-        <option value="$PROJECT_DIR$/SentDex/file_read.py" />
-        <option value="$PROJECT_DIR$/Networking/basic_socket.py" />
-        <option value="$PROJECT_DIR$/Networking/tcp_server.py" />
-        <option value="$PROJECT_DIR$/Networking/tcp_client.py" />
-        <option value="$PROJECT_DIR$/Networking/chat_client.py" />
-        <option value="$PROJECT_DIR$/Networking/chat_server.py" />
-        <option value="$PROJECT_DIR$/SentDex/list.py" />
-        <option value="$PROJECT_DIR$/SentDex/example.csv" />
-        <option value="$PROJECT_DIR$/SentDex/read_csv.py" />
-        <option value="$PROJECT_DIR$/SentDex/built_in_function.py" />
-        <option value="$PROJECT_DIR$/SentDex/os_module.py" />
-        <option value="$PROJECT_DIR$/SentDex/sys_module.py" />
-        <option value="$PROJECT_DIR$/SentDex/urllib_module.py" />
-        <option value="$PROJECT_DIR$/SentDex/regex.py" />
-        <option value="$PROJECT_DIR$/SentDex/parse_with_regex.py" />
-        <option value="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
-        <option value="$PROJECT_DIR$/Web_Crawling/basic.py" />
-        <option value="$PROJECT_DIR$/Web_Crawling/create_project_directory.py" />
-        <option value="$PROJECT_DIR$/Web_Crawling/general.py" />
+        <option value="$PROJECT_DIR$/Basics/key_logger.py" />
+        <option value="$PROJECT_DIR$/Beautiful_Soup/basic.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/string_operation.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/generator_expression_with_list.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/enumerate.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/zip_functanality.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/zip_functionality.py" />
+        <option value="$PROJECT_DIR$/SentDex/Intermediate/yield.py" />
+        <option value="$PROJECT_DIR$/Django/introducing_settings.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/website_1/urls.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/website_1/settings.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/admin.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/index.html" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/models.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/urls.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/views.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/views.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/locallibrary/urls.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/urls.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/locallibrary/settings.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/models.py" />
+        <option value="$PROJECT_DIR$/Basics/output_diff.txt" />
+        <option value="$PROJECT_DIR$/Basics/comp1.txt" />
+        <option value="$PROJECT_DIR$/Basics/comp2.txt" />
+        <option value="$PROJECT_DIR$/Basics/unique_file_contents.py" />
+        <option value="$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/admin.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/admin.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/urls.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/views.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/static/style.css" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/index.html" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/single_post.html" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/banglaidj/settings.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/admin.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/models.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/banglaidj/urls.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/models.py" />
+        <option value="$PROJECT_DIR$/banglai_django/banglaidj/cost_management/forms.py" />
+        <option value="$PROJECT_DIR$/Testreach/login.py" />
+        <option value="$PROJECT_DIR$/banglai_django/banglaidj/forms.py" />
+        <option value="$PROJECT_DIR$/B_DJ_Pro/bdjproject/testapp/forms.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/forms.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/urls.py" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/expense.html" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/add_expense.html" />
+        <option value="$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/views.py" />
+        <option value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/detail.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="y" value="114" />
-    <option name="width" value="760" />
-    <option name="height" value="722" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="52" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -218,6 +290,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,12 +299,6 @@
               <option name="myItemId" value="Python_Learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Python_Learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -246,7 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Web_Crawling" />
+              <option name="myItemId" value="Django" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,120 +328,236 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Web_Crawling" />
+              <option name="myItemId" value="Django" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thenewboston" />
+              <option name="myItemId" value="Boston_Test_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Boston_Test_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Boston_Test_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/BitBucket/testreach_ui_test/Candidate/Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Git\Python_Learning\Django" />
+      <recent name="F:\Git\Python_Learning\Django\Boston_Test_Project" />
+      <recent name="F:\Git\Python_Learning\Django\website\music\templates" />
+      <recent name="F:\Git\Python_Learning\Database_Connection" />
+      <recent name="F:\Git\Python_Learning\GUI\PyAutoGui" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Git\Python_Learning" />
       <recent name="F:\Git\Python_Learning\Basic_Structure\Make exe" />
       <recent name="F:\Git\Python_Learning\Basic_Structure\Excel" />
       <recent name="F:\Git\Python_Learning\Basic_Structure" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Git\Python_Learning\Database_Connection" />
-      <recent name="F:\Git\Python_Learning\GUI\PyAutoGui" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.general">
-    <configuration default="false" name="current_mouse_position" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.unique_file_contents">
+    <configuration default="false" name="enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/PyAutoGui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SentDex/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/PyAutoGui/current_mouse_position.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentDex/Intermediate/enumerate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="basic_winow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="zip_functionality" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SentDex/tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SentDex/Intermediate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentDex/tkinter/basic_winow.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentDex/Intermediate/zip_functionality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="weather_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/weather_Calculator.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="create_project_directory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="file_comparision" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Crawling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="F:\Git\Python_Learning\Web_Crawling\general.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/file_comparision.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="general" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="unique_file_contents" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Web_Crawling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_Crawling/general.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/unique_file_contents.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -388,6 +572,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -402,7 +587,24 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <module name="Python_Learning" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -415,6 +617,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -434,6 +637,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -453,6 +657,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -474,6 +679,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -496,6 +702,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -511,19 +718,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.current_mouse_position" />
-      <item index="1" class="java.lang.String" itemvalue="Python.basic_winow" />
-      <item index="2" class="java.lang.String" itemvalue="Python.weather_Calculator" />
-      <item index="3" class="java.lang.String" itemvalue="Python.create_project_directory" />
-      <item index="4" class="java.lang.String" itemvalue="Python.general" />
+      <item index="0" class="java.lang.String" itemvalue="Python.enumerate" />
+      <item index="1" class="java.lang.String" itemvalue="Python.zip_functionality" />
+      <item index="2" class="java.lang.String" itemvalue="Python.views" />
+      <item index="3" class="java.lang.String" itemvalue="Python.file_comparision" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unique_file_contents" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.general" />
-        <item index="1" class="java.lang.String" itemvalue="Python.create_project_directory" />
-        <item index="2" class="java.lang.String" itemvalue="Python.weather_Calculator" />
-        <item index="3" class="java.lang.String" itemvalue="Python.basic_winow" />
-        <item index="4" class="java.lang.String" itemvalue="Python.current_mouse_position" />
+        <item index="0" class="java.lang.String" itemvalue="Python.unique_file_contents" />
+        <item index="1" class="java.lang.String" itemvalue="Python.file_comparision" />
+        <item index="2" class="java.lang.String" itemvalue="Python.views" />
+        <item index="3" class="java.lang.String" itemvalue="Python.zip_functionality" />
+        <item index="4" class="java.lang.String" itemvalue="Python.enumerate" />
       </list>
     </recent_temporary>
   </component>
@@ -552,27 +759,31 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="114" width="760" height="722" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="52" width="1378" height="735" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10941828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2642487" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24933687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44210526" sideWeight="0.49707174" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22750424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -587,376 +798,364 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basic_Structure/PDF_Handling/combine_two_pdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIme/current_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIme/time_calculation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIme/stop_watch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/oddEven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/running_another_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/website/website/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/mysite/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/mysite/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/mysite/webapp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase_Connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackerrank/if_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hackerrank/leap_year.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/mysite/webapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/json_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/test_ds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/fibnacci_series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/PyAutoGui/mouse_click.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database_Connection/MySQL/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/a_ssimple_form.py">
+    <entry file="file://$PROJECT_DIR$/Django/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/sample.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TextBloob/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/global_variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/file_writing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/file_append.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/exampleFile.txt">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/file_read.py">
+    <entry file="file://$PROJECT_DIR$/Django/introducing_settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="806">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Networking/basic_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Networking/tcp_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Networking/tcp_server.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website/music/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="36" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Networking/chat_server.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Networking/chat_client.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+        <state relative-caret-position="172">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/list.py">
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/example.csv">
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/read_csv.py">
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/locallibrary/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="323">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/built_in_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/os_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/sys_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/urllib_module.py">
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/withHeaders.txt">
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/locallibrary/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/regex.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/PyAutoGui/current_mouse_position.py">
+    <entry file="file://$PROJECT_DIR$/Basics/comp2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5667">
+          <caret line="417" column="16" lean-forward="false" selection-start-line="417" selection-start-column="16" selection-end-line="417" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/comp1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="102" column="1" lean-forward="false" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/file_comparision.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/parse_with_regex.py">
+    <entry file="file://$PROJECT_DIR$/Basics/unique_file_contents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/button_simple.py">
+    <entry file="file://$PROJECT_DIR$/Basics/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/output_combined">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SentDex/tkinter/basic_winow.py">
+    <entry file="file://$PROJECT_DIR$/Basics/output_diff.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="994" column="0" lean-forward="false" selection-start-line="994" selection-start-column="0" selection-end-line="994" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/django_tutorial/Practice_Projects/locallibrary/catalog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/website_1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/website_1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/weather_Calculator.py">
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/single_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/banglaidj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/blog_post/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website/music/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="32" column="54" lean-forward="false" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banglai_django/banglaidj/static/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testreach/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banglai_django/banglaidj/forms.py" />
+    <entry file="file://$PROJECT_DIR$/banglai_django/banglaidj/cost_management/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B_DJ_Pro/bdjproject/testapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/expense.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/templates/cost/add_expense.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/banglaidj/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/banglai_django/banglaidj/cost_management/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="46" column="26" lean-forward="false" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Crawling/basic.py">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/crawled.txt">
+    <entry file="file://$PROJECT_DIR$/Django/Boston_Test_Project/website_1/music/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Crawling/thenewboston/queue.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Crawling/general.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="204">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
