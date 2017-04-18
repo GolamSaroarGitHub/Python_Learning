@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog_post',
     'cost_management',
+    'khoroch_management',
 ]
 
 MIDDLEWARE = [

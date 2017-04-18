@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table style="border: dotted saddlebrown 1px">
+        <th>
+            <td  style="border: dotted saddlebrown 1px"><b>Purpose</b></td>
+                <td  style="border: dotted saddlebrown 1px"><b>Amount</b></td>
+
+                    <td  style="border: dotted saddlebrown 1px"><b>Date</b></td>
+
+        </th>
+
+        {% for expense in expenses %}
+            <tr>
+                <td>
+                    {{ expense.purpose }}
+                </td>
+
+                                <td>
+                    {{ expense.amount }}
+                </td>
+
+                            <td>
+                    {{ expense.date }}
+                </td>
+
+            </tr>
+
+        {% endfor %}
+
+
+    </table>
+
+</body>
+</html>

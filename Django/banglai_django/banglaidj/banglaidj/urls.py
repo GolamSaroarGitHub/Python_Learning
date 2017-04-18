@@ -6,5 +6,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^home/', include('blog_post.urls')),
     url(r'^cost/', include('cost_management.urls'),name='cost'),
+    url(r'^khoroch/', include('khoroch_management.urls'), name='khoroch'),
 
 ]
