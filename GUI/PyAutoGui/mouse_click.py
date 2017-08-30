@@ -9,3 +9,5 @@ pyautogui.click(59, 240, button='left')
 #creating a double click event
 pyautogui.click(59, 240, button='left')
 pyautogui.click(59, 240, button='left')
+
+pyautogui.click(891, 442, button='left')

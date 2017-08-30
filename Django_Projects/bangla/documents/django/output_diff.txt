@@ -1,0 +1,20 @@
+-----------------------------------
+Comparing files 
+ > documents/django/comp1.txt
+ < documents/django/comp2.txt
+-----------------------------------
+> Line-7  ffas
+< Line-7  ffassdffdsdf
+
+> Line-8  dfa
+< Line-8  dfasd
+
+> Line-9  sf
+< Line-9  sfsdsdfsdfsfsdf
+
+> Line-10  asf
+< Line-10  asfsdsdsdsd
+
+>+ Line-11  asdf
+>+ Line-12  assf
+>+ Line-13  ad

@@ -1,0 +1,43 @@
+{##}
+{#{% load staticfiles %}#}
+{##}
+{#<!DOCTYPE html>#}
+{#<html lang="en">#}
+{#<head>#}
+{#    <meta charset="UTF-8">#}
+{#    <title>Title</title>#}
+{##}
+{#    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">#}
+{##}
+{#    <link rel="stylesheet" href="{% static 'css/style.css' %}">#}
+{#    <script src="{% static 'js/bootstrap.js' %}"></script>#}
+{##}
+{#</head>#}
+{#<body>#}
+{##}
+{#    <div class="container">#}
+{##}
+{#        <div class="jumbotron">#}
+{#            <h3 class="heading">This is our Blog</h3>#}
+{#        </div>#}
+{##}
+{##}
+{#        {% for post in all_posts %}#}
+{#            <p>{{ forloop.counter }}: <b>{{ post.title }} </b>===>{{ post.description }}</p>#}
+{##}
+{#        {% endfor %}#}
+{#    </div>#}
+{#</body>#}
+{#</html>#}
+
+
+
+{% extends 'base.html' %}
+
+    {% block content %}
+        {% for post in all_posts %}
+            <p>{{ forloop.counter }}: <b>{{ post.title }} </b>===>{{ post.description }}</p>
+
+        {% endfor %}
+
+    {% endblock %}

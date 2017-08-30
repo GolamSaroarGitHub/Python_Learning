@@ -1,0 +1,60 @@
+
+
+{% extends 'base.html' %}
+
+{% block content %}
+    {% for post in all_posts %}
+
+            <h3><a href="{% url 'single_post' post.id %}">{{ post.title }}</a></h3>
+
+
+    {% endfor %}
+
+
+
+
+<br>
+
+<a href="{% url 'add_post' %}">
+    <button class="btn btn-info">
+        New Post
+
+    </button>
+
+</a>
+
+{% endblock %}
+{##}
+{#{% load staticfiles %}#}
+{##}
+{#<!DOCTYPE html>#}
+{#<html lang="en">#}
+{#<head>#}
+{#    <meta charset="UTF-8">#}
+{#    <title>Title</title>#}
+{##}
+{#    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">#}
+{##}
+{#    <link rel="stylesheet" href="{% static 'css/style.css' %}">#}
+{#    <script src="{% static 'js/bootstrap.js' %}"></script>#}
+{##}
+{#</head>#}
+{#<body>#}
+{##}
+{#    <div class="container">#}
+{##}
+{#        <div class="jumbotron">#}
+{#            <h3 class="heading">This is our Blog</h3>#}
+{#        </div>#}
+{##}
+{#        <ul>#}
+{#        {% for post in all_posts %}#}
+{##}
+{#            <h3><a href="{% url 'single_post' post.id %}">{{ post.title }}</a></h3>#}
+{#            #}
+{##}
+{#        {% endfor %}#}
+{#        </ul>#}
+{#    </div>#}
+{#</body>#}
+{#</html>#}

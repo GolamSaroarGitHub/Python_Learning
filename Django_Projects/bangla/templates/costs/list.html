@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <h4 class="heading">Monthly Expenditure</h4>
+    <hr>
+
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>Amount</th>
+                <th>Purpose</th>
+                <th>Date</th>
+            </tr>
+
+        {% for expense in expenses %}
+            <tr>
+                <td>{{ expense.amount }}</td>
+                <td>{{ expense.purpose}}</td>
+                <td>{{ expense.date}}</td>
+
+            </tr>
+
+
+
+    {% endfor %}
+        </table>
+    <div class="row">
+
+        <div class="col-sm-offset-10 col-sm-2">
+            <a href="{% url 'add-cost' %}">
+                <button class="btn btn-info">
+                    Add Expenditure
+                </button>
+
+            </a>
+        </div>
+
+    </div>
+{% endblock %}
